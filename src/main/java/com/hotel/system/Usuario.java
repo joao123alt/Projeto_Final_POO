@@ -1,4 +1,4 @@
-package com.hotel.system;
+package com.hotelaria.system.Sistema;
 
 import lombok.Getter;
 import lombok.Setter;
